@@ -1,4 +1,4 @@
-import image from "../images/design-desk.jpeg";
+import image from "../assets/design-desk.jpeg";
 const imageAltText = "desktop with books and laptop";
 
 const projectList = [

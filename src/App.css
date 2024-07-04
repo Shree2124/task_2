@@ -107,7 +107,7 @@ a:hover {
     display: none;
   }
   .outer-div {
-    background-image: url("../src/images/design-desk.jpeg");
+    background-image: url("../src/assets/design-desk.jpeg");
     object-fit: contain;
     background-size: cover;
     margin-top: 1rem;
